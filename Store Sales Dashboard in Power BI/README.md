@@ -1,4 +1,4 @@
-# Store Sales Dashboard in Power BI
+# Store Sales Dashboard using Power BI
 
 ## Overview
 This project features a Power BI dashboard designed to analyze store sales data. The dashboard provides insights into key metrics such as orders, profit, sales, and shipping details while breaking down performance by region, segment, payment mode, and more.
